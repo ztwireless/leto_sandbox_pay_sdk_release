@@ -21,10 +21,10 @@ android {
     }
     signingConfigs {
         lebox {
-            storeFile file('./demo.keystore')
-            storePassword "123456"
-            keyAlias "demo"
-            keyPassword "123456"
+            storeFile file('./happy')
+            storePassword "Tiantian1234"
+            keyAlias "happy"
+            keyPassword "Tiantian1234"
         }
     }
     buildTypes {
